@@ -1,7 +1,7 @@
 {
-  "name": "flash-loan-mev-backend",
-  "version": "1.0.0",
-  "description": "Flash Loan MEV Backend - Real ETH profits to treasury",
+  "name": "flash-loan-mev-backend-full",
+  "version": "2.0.0",
+  "description": "Full Flash Loan MEV Backend with real ETH transfers",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
