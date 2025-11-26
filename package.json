@@ -1,0 +1,14 @@
+{
+  "name": "flash-loan-mev-backend",
+  "version": "1.0.0",
+  "description": "Flash Loan MEV Backend - Real ETH profits to treasury",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "ethers": "^6.9.0"
+  }
+}
